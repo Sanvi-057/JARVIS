@@ -1,0 +1,9 @@
+
+google-genai
+python-dotenv
+requests
+PyAutoGUI
+psutil
+sounddevice
+SpeechRecognition
+numpy
